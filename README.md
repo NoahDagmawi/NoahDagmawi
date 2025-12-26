@@ -15,7 +15,7 @@
 I’m a sophmore studying **Computer Engineering at San Diego State University** and a **Latitude AI Fellow**. I like physics, space, and robots.
 
 - **Interests:** AI/ML, SWE, Robotics, and Space
-- **Tech:** Python, PyTorch, scikit‑learn, Pandas, SQL •Java, C, C++ • Git, Linux
+- **Tech:** Python, PyTorch, scikit‑learn, Pandas, SQL • Java, C, C++ • Git, Linux
 - **Reach me:** noahdagmawiwork@gmail.com
 ---
 
