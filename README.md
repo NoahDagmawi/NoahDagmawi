@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Noah Dagmawi</h1>
+<p align="center">
+  <strong>CE @ SDSU</strong><br/>
+  I work on ML-powered technologies and user-friendly applications — built to solve complex problems.
+</p>
 
-<!--
-**NoahDagmawi/NoahDagmawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="[https://www.linkedin.com/in/noah-dagmawi-98864a2a8/]"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-blue"></a>
+  <a href="mailto:noahdagmawiwork@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-cnoahdagmawiwork%40gmail.com-informational"></a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+I’m a sophmore studying **Computer Engineering at San Diego State University** and a **Latitude AI Fellow**. I enjoy technology that changes lives.
+
+- **Interests:** AI/ML & SWE
+- **Tech:** Python, PyTorch, scikit‑learn, Pandas, SQL •Java, C, C++ • Git, Linux
+- **Reach me:** noahdagmawiwork@gmail.com
+---
+
+### Resume & Links
+- LinkedIn: https://www.linkedin.com/in/noah-dagmawi-98864a2a8/
+- Email: noahdagmawiwork@gmail.com
+---
