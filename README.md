@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/noah-dagmawi-98864a2a8/]"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-blue"></a>
+  <a href="https://www.linkedin.com/in/noah-dagmawi-98864a2a8/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-blue"></a>
   <a href="mailto:noahdagmawiwork@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-noahdagmawiwork%40gmail.com-informational"></a>
 </p>
 
